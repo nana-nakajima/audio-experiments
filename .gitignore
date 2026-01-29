@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+output/
+samples/
+.env
+*.wav
+*.mp3
+*.flac
+*.ogg
